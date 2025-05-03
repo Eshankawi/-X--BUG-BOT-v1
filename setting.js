@@ -37,8 +37,8 @@ const Styles = (text, style = 1) => {
 
 global.namaowner = "Eshan Kavishka"
 global.owner = "94758178340"
-global.namabot = "Ｅꜱʜᴜ-BUG-BOT"
-global.botname = "Ｅꜱʜᴜ-BUG-BOT"
+global.namabot = "𝐄𝐒𝐇𝐔 𝐁𝐔𝐆"
+global.botname = "𝐄𝐒𝐇𝐔 𝐁𝐔𝐆"
 global.simbol = "⌑"
 global.autoJoin = false
 global.domain = "-"
